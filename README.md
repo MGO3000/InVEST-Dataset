@@ -11,4 +11,4 @@ CO2 emissions have increased exponentially in recent years, so measuring and qua
 <b>Dataset download</b> <br> Data available at: [OneDrive](https://universidadevigo-my.sharepoint.com/:f:/g/personal/mariogarciao_alumnado_uvigo_gal/EsPTv-b7fT1IhsDOIuJE3zsB_33KNmMU1ey6x6koMENVJg?e=JvBGV1)
  
 <b>Link to the paper</b><br>
-Not avaialble yet
+https://doi.org/10.1016/j.scitotenv.2024.171297
